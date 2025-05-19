@@ -22,3 +22,6 @@ git branch -M main  -- rename
 git push origin main
 git branch -a
 git checkout testbranch
+
+testbranch
+test1
