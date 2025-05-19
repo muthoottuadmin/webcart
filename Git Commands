@@ -1,0 +1,15 @@
+bash command to start
+git config --global user.name "muthoottuadmin"
+git config --global user.email "dbadmin@muthoottu.com"
+
+create working folder
+open folder in VS Code
+
+terminal command
+
+git clone https://github.com/muthoottuadmin/webcart.git
+cd webcart
+git add 123
+git status
+git commit -m "test file 2"
+git push origin main
