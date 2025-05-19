@@ -20,3 +20,4 @@ git remote add origin "remlote location"
 git branch
 git branch -M main  -- rename
 git push origin main
+git diff testbranch
